@@ -5,4 +5,11 @@ SETUP
 First need express engine running 
 THEN set database using mongo DB 
 After establishing connections install cors and create an API
-Connect that API to frontend or client
+Connect that API to front end or client
+
+### Technologies  Used
+   .Express
+   .NodeJs
+   .Cors
+   .Mongoo DB
+   
